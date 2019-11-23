@@ -1,0 +1,21 @@
+{
+	"nama" : "Belinda Dwi Sukma Putri",
+	"Umur" : 17,
+	"Addres" : "Jl. Nusakambangan Gg Kamboja No.10 Denpasar Barat, Bali",
+	"Hobbies" : ["Coding", "Writing Story", "Learning"],
+	"married" : false,
+	"school" : {
+		"Kindergarten" : "TK Kumara Jaya",
+		"JuniorHighSchool" : "MTs Miftahul' Ulum",
+		"VocationalHighSchool" : "SMK TI Bali Global Denpasar"
+	},
+	"skills" : [{
+		"name" : "UI / UX Design",
+		"yearsOfExperience" : 1
+	}, {
+		"name" : "Mobile Dev",
+		"yearsOfExperience" : 1
+	}]
+
+
+}
